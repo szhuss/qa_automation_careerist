@@ -1,3 +1,3 @@
 # qa_automation_careerist
-
-Test change for git commit
+a
+Test change for git commit adding additional text
